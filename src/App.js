@@ -137,6 +137,7 @@ function App() {
               <iframe
                 width="460"
                 height="315"
+                title = "Demo"
                 src={artist[
                   "Please link a short video of the band/artist performing or practicing to be featured on the band's/artist's profile."
                 ].replace("/watch?v=", "/embed/")}
